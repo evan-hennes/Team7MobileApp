@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914430193688",
+    "project_id": "nutritution-a-i-0pxgmw",
+    "storage_bucket": "nutritution-a-i-0pxgmw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914430193688:android:9f58231f3043624221d36d",
+        "android_client_info": {
+          "package_name": "com.mycompany.nutritutionai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAogyl894QGm4KaedzCRVbQlzFl3kBunKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
